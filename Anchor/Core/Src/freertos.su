@@ -1,0 +1,9 @@
+../Core/Src/freertos.c:70:6:debug_print	16	static
+../Core/Src/freertos.c:76:6:debug_printf	144	static
+../Core/Src/freertos.c:157:6:HAL_UART_RxCpltCallback	40	static
+../Core/Src/freertos.c:200:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:255:6:StartDefaultTask	24	static
+../Core/Src/freertos.c:312:6:StartTask02	168	static
+../Core/Src/freertos.c:347:6:StartTask03	40	static
+../Core/Src/freertos.c:388:6:StartTask04	16	static
+../Core/Src/freertos.c:402:6:Motor_Control	32	static

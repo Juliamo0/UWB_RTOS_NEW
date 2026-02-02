@@ -1,0 +1,4 @@
+../Core/Src/deca_spi.c:30:5:openspi	1
+../Core/Src/deca_spi.c:44:5:closespi	1
+../Core/Src/deca_spi.c:57:5:writetospi	7
+../Core/Src/deca_spi.c:107:5:readfromspi	5

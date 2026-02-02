@@ -1,0 +1,3 @@
+../Core/Src/dr_twr_anchor_main.c:15:13:uart_print	16	static
+../Core/Src/dr_twr_anchor_main.c:29:24:get_rx_timestamp_u64	48	static
+../Core/Src/dr_twr_anchor_main.c:38:6:anchor_sniffer_test	472	static

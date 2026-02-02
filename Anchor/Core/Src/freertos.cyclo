@@ -1,0 +1,9 @@
+../Core/Src/freertos.c:70:6:debug_print	1
+../Core/Src/freertos.c:76:6:debug_printf	1
+../Core/Src/freertos.c:157:6:HAL_UART_RxCpltCallback	7
+../Core/Src/freertos.c:200:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:255:6:StartDefaultTask	1
+../Core/Src/freertos.c:312:6:StartTask02	2
+../Core/Src/freertos.c:347:6:StartTask03	2
+../Core/Src/freertos.c:388:6:StartTask04	1
+../Core/Src/freertos.c:402:6:Motor_Control	16

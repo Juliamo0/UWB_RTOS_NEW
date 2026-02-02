@@ -1,0 +1,7 @@
+../Core/Src/deca_spi.c:49:5:dw1000_select_chip	3
+../Core/Src/deca_spi.c:66:9:dw1000_get_current_chip	3
+../Core/Src/deca_spi.c:82:6:dw1000_init_all_cs	2
+../Core/Src/deca_spi.c:96:5:openspi	1
+../Core/Src/deca_spi.c:110:5:closespi	1
+../Core/Src/deca_spi.c:123:5:writetospi	7
+../Core/Src/deca_spi.c:173:5:readfromspi	5
